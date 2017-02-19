@@ -2,6 +2,10 @@
  
 Some useful links: 
 
+https://github.com/abhshkdz/neural-vqa
+
+https://github.com/iamaaditya/VQA_Demo
+
 https://github.com/jiasenlu/HieCoAttenVQA
 
 https://karpathy.github.io/
