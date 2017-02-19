@@ -1,4 +1,4 @@
-# VisualQuestionAnswering
+# Visual Question Answering
  
 Some useful links: 
 
