@@ -2,6 +2,8 @@
  
 Some useful links: 
 
+https://github.com/jiasenlu/HieCoAttenVQA
+
 https://karpathy.github.io/
 
 http://avisingh599.github.io/deeplearning/visual-qa/
