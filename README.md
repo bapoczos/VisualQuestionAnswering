@@ -2,6 +2,8 @@
  
 Some useful links: 
 
+http://colah.github.io/
+
 https://github.com/abhshkdz/neural-vqa
 
 https://github.com/iamaaditya/VQA_Demo
